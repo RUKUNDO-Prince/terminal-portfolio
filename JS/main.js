@@ -15,10 +15,10 @@ var email = "https://mail.google.com/mail/",
 whois = [
 "       ",  
 "Hey there am Prince RUKUNDO",
-"Am full stack software engineer from Rwanda who build software and website like this one",
-"Am currently make  bachelor's degree in computer and software engineering in university of Rwanda",
-"But also, am self-thought programmer who have skills in different programing language but most",
-"in DART(FLUTTER), PYTHON , JAVA ,C/C++ and WEB DEVELOPEMENT",
+"I'm full-stack software engineer from Rwanda who craft interactive and user-friendly softwares and websites",
+"I'm currently still attending highschool, but pleased to work with anyone interested",
+"I am also a self-taught programmer who have skills in different programing language but mostly",
+"in JAVASCRIPT, PYTHON , JAVA ,C/C++ and WEB DEVELOPEMENT",
 '     ',];
 
 why =["    ", 
