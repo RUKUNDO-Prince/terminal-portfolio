@@ -4,7 +4,7 @@ var command = document.getElementById("typer");
 var textarea = document.getElementById("texter"); 
 var terminal = document.getElementById("terminal");
 
-var GitHub = "https://github.com/IshKevin";
+var GitHub = "https://github.com/RUKUNDO-Prince";
 var instagram ="https://www.instagram.com/ishi_kevin";
 var twitter ="https://twitter.com/_kevinishimwe";
 var linkedin ="https://www.linkedin.com/in/ishimwe-kevin-81795421b/";
