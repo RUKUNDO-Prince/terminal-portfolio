@@ -8,7 +8,7 @@ var GitHub = "https://github.com/RUKUNDO-Prince";
 // var instagram ="https://www.instagram.com/ishi_kevin";
 var twitter ="https://twitter.com/_kevinishimwe";
 var linkedin ="https://www.linkedin.com/in/ishimwe-kevin-81795421b/";
-var facebook ="https://www.facebook.com/kevin.ishimwe.142";
+// var facebook ="https://www.facebook.com/kevin.ishimwe.142";
 var email = "https://mail.google.com/mail/",
 
 
