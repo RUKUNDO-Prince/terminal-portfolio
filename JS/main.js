@@ -78,7 +78,7 @@ banner = [
 "<FONT COLOR='#addb67'><small>                     [ (  /",
 "<FONT COLOR='#addb67'><small>                      ) `{",
 "<FONT COLOR='#addb67'><small>                      \\__)",
-'<FONT COLOR="#FFFF99">welcome to my terminal website</div>',
+'<FONT COLOR="#FFFF99">welcome to my terminal-like portfolio</div>',
 '<FONT COLOR="#FFFF99">For a list of available commands, type <FONT COLOR="#519975">help</font>.',];
 
 
