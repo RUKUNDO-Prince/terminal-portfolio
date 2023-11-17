@@ -14,7 +14,7 @@ var email = "https://mail.google.com/mail/",
 
 whois = [
 "       ",  
-"Hey there am kevin ishimwe",
+"Hey there am Prince RUKUNDO",
 "Am full stack software engineer from Rwanda who build software and website like this one",
 "Am currently make  bachelor's degree in computer and software engineering in university of Rwanda",
 "But also, am self-thought programmer who have skills in different programing language but most",
