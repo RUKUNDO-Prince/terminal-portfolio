@@ -27,7 +27,7 @@ why =["    ",
 "feel free to contact me for any project or idea",
 "   ",];
 
-projects =["If you are interested in my projects visit my GitHub "];
+projects =["If you are interested in my projects visit my GitHub at github.com/RUKUNDO-Prince"];
 
 
 help =[
