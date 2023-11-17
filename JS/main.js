@@ -169,7 +169,7 @@ function commander(cmd) {
     case "sudo":
       addLine("Oh no, you're not admin...", "color2", 80);
       setTimeout(function() {
-        window.open('https://github.com/IshKevin');
+        window.open('https://github.com/RUKUNDO-Prince');
       }, 1000); 
       break;
     case "social":
