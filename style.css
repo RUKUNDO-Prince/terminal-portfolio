@@ -61,7 +61,7 @@ b {
 }
 #liner::before {
   color: #519975;
-content: "Welcome@IshiKevin_website~$:";
+content: "Welcome@Prince-RUKUNDO~$:";
 }
 #liner.password::before {
   content: "Password:";
