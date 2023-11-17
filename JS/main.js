@@ -22,9 +22,9 @@ whois = [
 '     ',];
 
 why =["    ", 
-"The only reason that i created this website is becouse",
-"i wanted something different and i know it felles engineed ",
-"but with help command everything will be magic",
+"The reason that you should work with me is that",
+"I am the one with both skills and experience, all put together to craft the best websites and softwares, ",
+"feel free to contact me for any project or idea",
 "   ",];
 
 projects =["If you are interested in my projects visit my GitHub "];
