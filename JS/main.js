@@ -48,7 +48,7 @@ help =[
 
 social =[
 "    ",
-'<FONT COLOR="#B89076">GitHub</font>        GitHub/IshKevin ',
+'<FONT COLOR="#B89076">GitHub</font>        GitHub/RUKUNDO-Prince ',
 '<FONT COLOR="#B89076">LinkedIn</font>      LinkedIn/Ishimwe kevin',
 '<FONT COLOR="#B89076">Twitter</font>       Twitter/_kevinishimwe',
 '<FONT COLOR="#B89076">instagram</font>     Instagram/ishi_kevin',
