@@ -74,7 +74,7 @@ banner = [
 "<FONT COLOR='#addb67'><small>          .-,-,_ |     `.  `'---,  \\_ _|        ##           #####          ##   ##     ##  ##    ##           ##",
 "<FONT COLOR='#addb67'><small>          //    'L    /  \\,   ('--',=`)7        ##           ##  ###        ##   ##      ## ##    ##           ##",
 "<FONT COLOR='#addb67'><small>         | `._       : _,  \\  /'`-._L,_'-._     ##           ##    ###      ##   ##       ####      ########   #######",
-"<FONT COLOR='#addb67'><small>         '--' '-.\\__/ _L   .`'         './/                                                                     ©IshiKevin 2022",
+"<FONT COLOR='#addb67'><small>         '--' '-.\\__/ _L   .`'         './/                                                                     @Prince RUKUNDO 2023",
 "<FONT COLOR='#addb67'><small>                     [ (  /",
 "<FONT COLOR='#addb67'><small>                      ) `{",
 "<FONT COLOR='#addb67'><small>                      \\__)",
