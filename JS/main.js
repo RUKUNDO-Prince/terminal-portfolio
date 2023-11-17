@@ -59,7 +59,7 @@ social =[
 email = [];
 
 banner = [
-'<div style="color:white;">Engineer Prince. It us a pleasure to have you here.</div>',
+'<div style="color:white;">Hello from Prince. It us a pleasure to have you here.</div>',
 "  ",
 "<FONT COLOR='#addb67'><small>                _            _.,----,</small>",
 "<FONT COLOR='#addb67'><small>     __  _.-._ / '-.        -  ,._  \\)",
