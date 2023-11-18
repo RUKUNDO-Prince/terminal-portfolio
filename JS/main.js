@@ -157,7 +157,7 @@ function commander(cmd) {
       loopLines(help, "color2 margin", 80);
       break;
     case "who":
-      loopLines(whois, "color2 margin", 80);
+      loopLines(who, "color2 margin", 80);
       break;
     case "why":
       loopLines(why, "color2 margin", 80);
