@@ -7,7 +7,7 @@ var terminal = document.getElementById("terminal");
 var GitHub = "https://github.com/RUKUNDO-Prince";
 // var twitter ="https://twitter.com/_kevinishimwe";
 var linkedin ="https://www.linkedin.com/in/rukundo-prince-142539260/";
-var email = "https://mail.google.com/mail/u/0/#compose",
+var email = "https://mail.google.com/mail/u/0/#compose/",
 
 who = [
 "       ",  
