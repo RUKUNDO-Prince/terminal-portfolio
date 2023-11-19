@@ -158,7 +158,7 @@ function commander(cmd) {
       break;
     case "why":
       loopLines(why, "color2 margin", 80);
-      break;ter
+      break;
     case "sudo":
       addLine("Oh no, you're not admin...", "color2", 80);
       setTimeout(function() {
