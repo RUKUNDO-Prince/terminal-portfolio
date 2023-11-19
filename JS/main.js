@@ -158,11 +158,7 @@ function commander(cmd) {
       break;
     case "why":
       loopLines(why, "color2 margin", 80);
-      break;
-    case "video":
-      addLine("Opening YouTube...", "color2", 80);
-      newTab(youtube);
-      break;
+      break;ter
     case "sudo":
       addLine("Oh no, you're not admin...", "color2", 80);
       setTimeout(function() {
