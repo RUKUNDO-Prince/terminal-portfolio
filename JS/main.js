@@ -32,7 +32,7 @@ help =[
 "    ",
 "<p>",
 '<FONT COLOR="#B89076">help</FONT>          Display all commands',
-'<FONT COLOR="#B89076">who</font>         Who is Prince ?',
+'<FONT COLOR="#B89076">who</font>           Who is Prince ?',
 '<FONT COLOR="#B89076">why</font>           If you want to know the reason to work with me',
 '<FONT COLOR="#B89076">projects</font>      Display my projects',
 '<FONT COLOR="#B89076">social</font>        Display social networks',
