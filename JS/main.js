@@ -194,10 +194,10 @@ function commander(cmd) {
       loopLines(banner, "", 80);
       break;
     // socials
-    case "twitter":
-      addLine("Opening Twitter...", "color2", 0);
-      newTab(twitter);
-      break;
+    // case "twitter":
+    //   addLine("Opening Twitter...", "color2", 0);
+    //   newTab(twitter);
+    //   break;
     case "linkedin":
       addLine("Opening LinkedIn...", "color2", 0);
       newTab(linkedin);
