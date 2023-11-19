@@ -9,7 +9,6 @@ var GitHub = "https://github.com/RUKUNDO-Prince";
 var linkedin ="https://www.linkedin.com/in/rukundo-prince-142539260/";
 var email = "https://mail.google.com/mail/",
 
-
 who = [
 "       ",  
 "Hey there am Prince RUKUNDO",
