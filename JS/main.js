@@ -11,7 +11,7 @@ var email = "https://mail.google.com/mail/u/0/#compose/",
 
 who = [
 "       ",  
-"Hey there am Prince RUKUNDO",
+"Hello there am Prince RUKUNDO",
 "I'm full-stack software engineer from Rwanda who craft interactive and user-friendly softwares and websites",
 "I'm currently still attending highschool, but pleased to work with anyone interested",
 "I am also a self-taught programmer who have skills in different programing language but mostly",
