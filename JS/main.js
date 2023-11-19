@@ -10,7 +10,7 @@ var linkedin ="https://www.linkedin.com/in/rukundo-prince-142539260/";
 var email = "https://mail.google.com/mail/",
 
 
-whois = [
+who = [
 "       ",  
 "Hey there am Prince RUKUNDO",
 "I'm full-stack software engineer from Rwanda who craft interactive and user-friendly softwares and websites",
