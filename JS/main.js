@@ -36,7 +36,7 @@ help =[
 '<FONT COLOR="#B89076">projects</font>      Display my projects',
 '<FONT COLOR="#B89076">social</font>        Display social networks',
 '<FONT COLOR="#B89076">history</font>       View command history ',
-'<FONT COLOR="#B89076">email</font>         If you want email me',
+// '<FONT COLOR="#B89076">email</font>         If you want email me',
 '<FONT COLOR="#B89076">banner</font>        Display top banner',
 '<FONT COLOR="#B89076">sudo</font>          If you think that you are admin',
 "   ",
