@@ -53,7 +53,7 @@ social =[
 '  ',];
 
 
-email = [];
+// email = [];
 
 banner = [
 '<div style="color:white;">Hello from Prince. It\'s a pleasure to have you here.</div>',
