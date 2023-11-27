@@ -15,7 +15,7 @@ who = [
 "I'm full-stack software engineer from Rwanda who craft interactive and user-friendly softwares and websites",
 "I'm currently still attending highschool, but pleased to work with anyone interested",
 "I am also a self-taught programmer who have skills in different programing language but mostly",
-"in JAVASCRIPT, PYTHON , JAVA ,C/C++ and WEB DEVELOPEMENT",
+"in JAVASCRIPT, PYTHON, JAVA ,C/C++ and WEB DEVELOPEMENT",
 '     ',];
 
 why =["    ", 
